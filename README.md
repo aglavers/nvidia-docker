@@ -1,5 +1,7 @@
 # Based on the NVIDIA Container Runtime for Docker 
 
+### Caution - nothing checked in here yet!
+
 - This is NOT official NVIDIA
 - This adds Anaconda and tensorflow keras to a base Nvidia image for Ubuntu 16.04 within the container.
 - Sucessfully run with Ubuntu 18.04 as host 
